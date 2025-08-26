@@ -1,1 +1,1 @@
-# Actividad-1-Dise-o-de-Software
+# Actividad 1 Diseño de Software
